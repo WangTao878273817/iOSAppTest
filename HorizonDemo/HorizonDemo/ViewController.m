@@ -24,6 +24,8 @@
     [btn setBackgroundColor:[UIColor orangeColor]];
     [self.view addSubview:btn];
     
+    NSLog(@"我想添加一个东西 可以实现吗");
+    
     
 }
 
