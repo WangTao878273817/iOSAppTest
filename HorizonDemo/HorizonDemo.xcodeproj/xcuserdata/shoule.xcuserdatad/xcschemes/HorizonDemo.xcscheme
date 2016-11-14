@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7807035D1DD570C70081D680"
-               BuildableName = "AnimationDemo.app"
-               BlueprintName = "AnimationDemo"
-               ReferencedContainer = "container:AnimationDemo.xcodeproj">
+               BlueprintIdentifier = "78EDFA891DD2CB9F00471091"
+               BuildableName = "HorizonDemo.app"
+               BlueprintName = "HorizonDemo"
+               ReferencedContainer = "container:HorizonDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7807035D1DD570C70081D680"
-            BuildableName = "AnimationDemo.app"
-            BlueprintName = "AnimationDemo"
-            ReferencedContainer = "container:AnimationDemo.xcodeproj">
+            BlueprintIdentifier = "78EDFA891DD2CB9F00471091"
+            BuildableName = "HorizonDemo.app"
+            BlueprintName = "HorizonDemo"
+            ReferencedContainer = "container:HorizonDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7807035D1DD570C70081D680"
-            BuildableName = "AnimationDemo.app"
-            BlueprintName = "AnimationDemo"
-            ReferencedContainer = "container:AnimationDemo.xcodeproj">
+            BlueprintIdentifier = "78EDFA891DD2CB9F00471091"
+            BuildableName = "HorizonDemo.app"
+            BlueprintName = "HorizonDemo"
+            ReferencedContainer = "container:HorizonDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7807035D1DD570C70081D680"
-            BuildableName = "AnimationDemo.app"
-            BlueprintName = "AnimationDemo"
-            ReferencedContainer = "container:AnimationDemo.xcodeproj">
+            BlueprintIdentifier = "78EDFA891DD2CB9F00471091"
+            BuildableName = "HorizonDemo.app"
+            BlueprintName = "HorizonDemo"
+            ReferencedContainer = "container:HorizonDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

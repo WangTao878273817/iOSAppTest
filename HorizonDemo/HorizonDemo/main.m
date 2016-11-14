@@ -1,8 +1,8 @@
 //
 //  main.m
-//  AnimationDemo
+//  HorizonDemo
 //
-//  Created by shoule on 2016/11/11.
+//  Created by shoule on 2016/11/9.
 //  Copyright © 2016年 SaiDicaprio. All rights reserved.
 //
 
